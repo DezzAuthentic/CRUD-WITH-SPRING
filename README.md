@@ -1,7 +1,7 @@
 # Prérequis
-Java JDK 17
-Maven
-Docker
+Java JDK 17  
+Maven  
+Docker  
 # Configuration de la Base de Données
 Assurez-vous de configurer les paramètres de la base de données dans le fichier application.properties. Consultez application.properties pour plus d'informations.  
 
